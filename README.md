@@ -26,10 +26,10 @@
 - 2.글 삭제’ 는  복수개의 uid 값을 받는다.
 - 3.글 목록’ 에서의 글 전체 개수 → count(*) 
 - 4.글 목록’ 페이징용 쿼리.  
-<hr>
+
 2. @Service 준비
-- 1.기존의 DAO 객체를 통해 운영했었던 코드를을 MyBatis 버젼으로 변경해야 한다
-- 2.DAO 이 메소드에서 response 까지 했던거에 반해서 이제는 @RestController 가 자동으로 resposne 해줄수 있도록 리턴 포맷을 맞추어야 한다.
+- 기존의 DAO 객체를 통해 운영했었던 코드를을 MyBatis 버젼으로 변경해야 한다
+- DAO 이 메소드에서 response 까지 했던거에 반해서 이제는 @RestController 가 자동으로 resposne 해줄수 있도록 리턴 포맷을 맞추어야 한다.
 
 
 
