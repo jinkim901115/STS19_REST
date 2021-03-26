@@ -35,7 +35,7 @@
 
 4. DTO 수정
 
-![CreatePlan](./image/face04.jpg)
+![CreatePlan](./image/face03.jpg)
 
 
 
